@@ -7,14 +7,42 @@
   My work mainly focus on developing mobile and web apps using various JavaScript frameworks. <br />
   I can be reached at:
   <a href="mailto:amit_kumar_30@outlook.com">amit_kumar_30@outlook.com</a>
+
 </p>
+
+---
+
+<div align="center">
+  <h2>Connect</h2>
+  <a href="https://www.linkedin.com/in/amit-kumar-7660b157/" align="center">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="https://www.linkedin.com/in/amit-kumar-7660b157/"
+      align="center"
+    />
+  </a>
+  <a href="mailto:aks0095@gmail.com" align="center">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="aks0095@gmail.com"
+      align="center"
+    />
+  </a>
+  <a href="mailto:amit_kumar_30@outlook.com" align="center">
+    <img
+      src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"
+      alt="amit_kumar_30@outlook.com"
+      align="center"
+    />
+  </a>
+</div>
+<br />
 
 ---
 
 <div align="center">
 
 <h2>Expertise</h2>
-&nbsp; &nbsp;
 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
