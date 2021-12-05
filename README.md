@@ -4,9 +4,7 @@
 
 <p align="center">
   I'm a JavaScript Developer from India. <br />
-  My work mainly focus on developing mobile and web apps using various JavaScript frameworks. <br />
-  I can be reached at:
-  <a href="mailto:amit_kumar_30@outlook.com">amit_kumar_30@outlook.com</a>
+  My work mainly focus on developing mobile and web apps using various JavaScript frameworks.
 
 </p>
 
